@@ -2,6 +2,9 @@
 
 Website ini adalah portfolio pribadi yang menampilkan beberapa proyek web yang telah saya kerjakan.
 
+## 🌍 Live Demo
+Check it out live here:
+👉[https://jefa21.github.io/Website-Sekolah/](https://jefa21.github.io/Website-Sekolah/)
 ---
 
 ## ✨ Fitur
