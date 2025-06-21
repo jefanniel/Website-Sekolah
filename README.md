@@ -4,7 +4,7 @@ Website ini adalah portfolio pribadi yang menampilkan beberapa proyek web yang t
 
 ## 🌍 Live Demo
 Check it out live here:
-👉[https://jefa21.github.io/Website-Sekolah/](https://jefa21.github.io/Website-Sekolah/)
+👉[https://jefanniel.github.io/Website-Sekolah/](https://jefa21.github.io/Website-Sekolah/)
 ---
 
 ## ✨ Fitur
@@ -27,13 +27,13 @@ Untuk mengunduh project ini, ikuti langkah berikut:
 3. Jalankan perintah berikut untuk meng-clone repository ini ke komputer kamu:
 
    ```bash
-   git clone https://github.com/jefa21/repo.git
+   git clone https://github.com/jefanniel/Website-Sekolah.git
    ```
 
 
 ## 🧑‍💻 Penulis
 Jefanniel Nathan  
-GitHub: [https://github.com/jefa21](https://github.com/jefa21)  
+GitHub: [https://github.com/jefanniel](https://github.com/jefanniel)  
 Tahun: 2025
 
 ## 📄 Lisensi
